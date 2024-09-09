@@ -1,0 +1,7 @@
+﻿  UnitTest1.cpp
+C:\Users\Ahmad\OneDrive\Documents\Ahmad\0_Seneca\0_Semester 2\SFT211\0_Project\winter24-sft221-nii-3\SourceCode\UnitTest1\UnitTest1.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Ahmad\OneDrive\Documents\Ahmad\0_Seneca\0_Semester 2\SFT211\0_Project\winter24-sft221-nii-3\SourceCode\UnitTest1\UnitTest1.cpp(1,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+C:\Users\Ahmad\OneDrive\Documents\Ahmad\0_Seneca\0_Semester 2\SFT211\0_Project\winter24-sft221-nii-3\SourceCode\UnitTest1\UnitTest1.cpp(1,1): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+C:\Users\Ahmad\OneDrive\Documents\Ahmad\0_Seneca\0_Semester 2\SFT211\0_Project\winter24-sft221-nii-3\SourceCode\UnitTest1\UnitTest1.cpp(1,1): message : Add macro to precompiled header instead of defining here
+C:\Users\Ahmad\OneDrive\Documents\Ahmad\0_Seneca\0_Semester 2\SFT211\0_Project\winter24-sft221-nii-3\SourceCode\UnitTest1\UnitTest1.cpp(2,1): message : use of precompiled header
+  UnitTest1.vcxproj -> C:\Users\Ahmad\OneDrive\Documents\Ahmad\0_Seneca\0_Semester 2\SFT211\0_Project\winter24-sft221-nii-3\SourceCode\Project\x64\Debug\UnitTest1.dll
