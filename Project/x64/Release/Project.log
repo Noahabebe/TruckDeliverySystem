@@ -1,0 +1,18 @@
+﻿  main.c
+  mapping.c
+  Truck.cpp
+C:\Users\Ahmad\OneDrive\Documents\Ahmad\0_Seneca\0_Semester 2\SFT211\0_Project\winter24-sft221-nii-3\SourceCode\Project\Truck.cpp(34,37): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Ahmad\OneDrive\Documents\Ahmad\0_Seneca\0_Semester 2\SFT211\0_Project\winter24-sft221-nii-3\SourceCode\Project\Truck.cpp(34,52): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+main.obj : error LNK2001: unresolved external symbol setTruckInfo
+    Hint on symbols that are defined and could potentially match:
+      "int __cdecl setTruckInfo(struct Truck *)" (?setTruckInfo@@YAHPEAUTruck@@@Z)
+main.obj : error LNK2001: unresolved external symbol validateTruckWeight
+    Hint on symbols that are defined and could potentially match:
+      "int __cdecl validateTruckWeight(struct Truck,int *)" (?validateTruckWeight@@YAHUTruck@@PEAH@Z)
+main.obj : error LNK2001: unresolved external symbol validateTruckSize
+    Hint on symbols that are defined and could potentially match:
+      "int __cdecl validateTruckSize(struct Truck,double *)" (?validateTruckSize@@YAHUTruck@@PEAN@Z)
+Truck.obj : error LNK2001: unresolved external symbol "struct Map __cdecl populateMap(void)" (?populateMap@@YA?AUMap@@XZ)
+    Hint on symbols that are defined and could potentially match:
+      populateMap
+C:\Users\Ahmad\OneDrive\Documents\Ahmad\0_Seneca\0_Semester 2\SFT211\0_Project\winter24-sft221-nii-3\SourceCode\Project\x64\Release\Project.exe : fatal error LNK1120: 4 unresolved externals
